@@ -25,10 +25,11 @@ test_requirements = [
 setup(
     name='headhunterru',
     version='0.1.0',
+    description='Python hh.ru API Wrapper',
     long_description=readme + '\n\n' + history,
     author="Alexander Sterchov",
     author_email='i@likeon.name',
-    url='https://github.com/likeon/headhunterru',
+    url='https://github.com/likeon/python-headhunterru',
     packages=[
         'headhunterru',
     ],
